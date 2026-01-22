@@ -1,4 +1,4 @@
-# Food-Brand
+# Food-Brand(To maintain privacy of brand , couldnt share files,data and results)
 Project Title: Create data-driven strategies to help Conagra unlock future growth potential in the Meat Substitutes category
 📊 Optimizing Sales Strategy: Meat Substitute Product Analysis
 Retail Sales Analytics | Predictive Modeling | Data Mining
